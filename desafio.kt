@@ -53,6 +53,13 @@ fun main() {
     ) 
     php.listarInscritos()
     mobileDeveloperCognizant.listarInscritos()
+
+     php.matricular(victor)
+    mobileDeveloperCognizant.matricular(maria)
+
+
+php.listarInscritos()
+    mobileDeveloperCognizant.listarInscritos()
     
     
  }
